@@ -1,0 +1,48 @@
+.niki heading {font-size:20pt; text-align:center; height:20pt;padding-top: 12pt;color: black;}
+
+.body {width: 700px; margin:0 px auto;text-align:center;}
+
+h4 {
+color: black;
+font-size:24pt;
+text-decoration: underline;
+}
+
+h5 {
+color: white;
+font-size:18pt;
+font-family: Times New Roman;
+}
+
+body {
+	color:blue;
+	background-color: pink;
+	font-size:14pt;
+	font-family: Times New Roman;
+}
+
+#Niki_pic {
+height:100px;
+width:40px;
+margin-bottom:25px;
+margin-top:25px;
+margin-right:25px;
+margin-left:25px;
+float: left;
+}
+
+#disney_pic {
+height:100px;
+width:40px;
+margin-bottom:25px;
+margin-top:25px;
+margin-right:25px;
+margin-left:25px;
+border: background-color;
+float: left;
+}
+
+
+
+	
+	 
